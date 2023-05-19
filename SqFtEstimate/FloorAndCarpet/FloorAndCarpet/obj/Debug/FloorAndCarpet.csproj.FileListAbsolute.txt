@@ -34,3 +34,15 @@ C:\Users\Joe\Desktop\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorA
 C:\Users\Joe\Desktop\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.csproj.CoreCompileInputs.cache
 C:\Users\Joe\Desktop\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.exe
 C:\Users\Joe\Desktop\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.pdb
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\bin\Debug\FloorAndCarpet.exe.config
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\bin\Debug\FloorAndCarpet.exe
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\bin\Debug\FloorAndCarpet.pdb
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.csproj.AssemblyReference.cache
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.Form1.resources
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.Properties.Resources.resources
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.Quotation.resources
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.csproj.GenerateResource.cache
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.exe
+C:\Users\Joe\Documents\GitHub\Resume-Projects\SqFtEstimate\FloorAndCarpet\FloorAndCarpet\obj\Debug\FloorAndCarpet.pdb

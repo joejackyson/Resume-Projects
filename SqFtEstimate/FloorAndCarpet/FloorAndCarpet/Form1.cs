@@ -191,6 +191,7 @@ namespace FloorAndCarpet
                 MessageBox.Show("Please enter a value for material name.", "Material name required");
                 txtMaterialEntry.Text = string.Empty;
                 txtMaterialEntry.Focus();
+                return;
             }
             string MaterialEntry = txtMaterialEntry.Text;
             if (!decimal.TryParse(txtPPSqFtEntry.Text, out decimal PPSqFt))
@@ -198,12 +199,14 @@ namespace FloorAndCarpet
                 MessageBox.Show("Please enter a decimal number.", "Decimal expected");
                 txtPPSqFtEntry.Text = string.Empty;
                 txtPPSqFtEntry.Focus();
+                return;
             }
             if (txtThicknessEntry.Text == string.Empty)
             {
                 MessageBox.Show("Please enter a value for material thickness.", "Material thickness required");
                 txtThicknessEntry.Text = string.Empty;
                 txtThicknessEntry.Focus();
+                return;
             }
             string ThicknessEntry = txtThicknessEntry.Text;
             if (txtDescriptionEntry.Text == string.Empty)
@@ -211,6 +214,7 @@ namespace FloorAndCarpet
                 MessageBox.Show("Please enter a value for material description.", "Material description required");
                 txtDescriptionEntry.Text = string.Empty;
                 txtDescriptionEntry.Focus();
+                return;
             }
             string path1 = Path.GetDirectoryName(Environment.CurrentDirectory);
             string path2 = Path.GetDirectoryName(path1);
@@ -250,6 +254,7 @@ namespace FloorAndCarpet
                 MessageBox.Show("Please enter an integer.", "int expected");
                 txtMatID.Text = string.Empty;
                 txtMatID.Focus();
+                return;
             }
             string path1 = Path.GetDirectoryName(Environment.CurrentDirectory);
             string path2 = Path.GetDirectoryName(path1);
